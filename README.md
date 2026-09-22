@@ -6,6 +6,10 @@ FastAPI 백엔드와 Next.js 프론트엔드로 구성된 풀스택 문서 번�
 
 - **`backend/`**: FastAPI 서버로, 문서 처리, 메타데이터 추출, AI 기반 추천 및 채팅 기능을 담당합니다.
 - **`frontend/`**: Next.js (TypeScript) 대시보드로, 사용자가 문서를 관리하고 AI 분석 결과를 확인할 수 있는 UI를 제공합니다.
+- **`docs/`**: 발표 자료 및 구현 문서
+
+** 발표 영상 ** : https://drive.google.com/file/d/1wq6SxugWgGI_O4TqI9toZjDy090Ni1yU/view?usp=sharing
+** 실습 영상 ** : https://drive.google.com/file/d/1-ZSMN5lDSPIrdo9PL8Qcw5SC40ddKbXh/view?usp=sharing
 
 ## 시작하기
 
